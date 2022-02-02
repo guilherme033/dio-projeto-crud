@@ -1,0 +1,15 @@
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\series-dio.exe
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\series-dio.deps.json
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\series-dio.runtimeconfig.json
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\series-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\ref\series-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\bin\Debug\net6.0\series-dio.pdb
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.csproj.AssemblyReference.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.AssemblyInfoInputs.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.AssemblyInfo.cs
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\ref\series-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.pdb
+C:\Users\Guilherme\OneDrive\Área de Trabalho\series-dio\obj\Debug\net6.0\series-dio.genruntimeconfig.cache
